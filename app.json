@@ -1,7 +1,7 @@
 {
-  "name": "repo name",
+  "name": "Lucyfxr-MD2",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "repo link",
+  "repository": "https://github.com/Ryutenz/Lucyfxr-MD2",
   "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
